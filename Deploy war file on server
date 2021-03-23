@@ -1,0 +1,22 @@
+Step 1-
+	Convert your project to war file
+ 
+Step 2-
+	Start Apache local server
+	
+Step-3
+	Open Localhost in browser
+
+Step 4-
+	Go to Manager APP
+
+Step 5
+	Under Deploy select deploy war file
+
+Step 6-
+	Upload your converted war file on server
+	
+Step 7-
+	Now under Applications Select your project.
+
+	
