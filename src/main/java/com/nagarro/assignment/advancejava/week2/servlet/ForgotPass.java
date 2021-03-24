@@ -40,7 +40,7 @@ public class ForgotPass extends HttpServlet {
 		else if(user.getEmail().equalsIgnoreCase(email))
 			response.getWriter().print("Your Password is : "+ user.getPass());
 		else
-			response.getWriter().print("Sorry, Email and username doesn't match");
+			response.getWriter().print(" Email and username doesn't match");
 		
 		session.close();
 		
